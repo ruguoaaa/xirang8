@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ruguoaaa.github.io/xirang/xirang1/sitemap.xml
+Sitemap: https://ruguoaaa.github.io/xirang/xirang8/sitemap.xml
