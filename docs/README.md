@@ -57,7 +57,7 @@ features:
   - icon: repo
     title: 儒藏
     details: 乐经，五经总义，修身治家，启蒙蒙学，四书，孝经，小学，尚书，春秋，礼经，诗经，语录。
-    link: https://ruguoaaa.github.io/xirang8/儒藏/
+    link: /儒藏/
 
   - icon: repo
     title: 道藏
