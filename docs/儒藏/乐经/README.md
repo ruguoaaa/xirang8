@@ -1,9 +1,10 @@
 ---
-title: 儒藏
+title: 乐经
 index: false
 icon: folder
+order: 2
 category:
-  - 儒藏
+  - 乐经
 ---
 
 <AutoCatalog  />

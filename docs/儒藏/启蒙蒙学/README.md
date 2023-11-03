@@ -1,9 +1,10 @@
 ---
-title: 儒藏
+title: 启蒙蒙学
 index: false
 icon: folder
+order: 4
 category:
-  - 儒藏
+  - 启蒙蒙学
 ---
 
 <AutoCatalog  />
